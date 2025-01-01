@@ -1,7 +1,10 @@
-
-#fullname{
+#fullname {
   text-align: center;
-  color:blue ;
+  color: blue;
   font-size: 24px;
   font-weight: 800;
+}
+
+body {
+  background-color: aqua;
 }
